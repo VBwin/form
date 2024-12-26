@@ -1,0 +1,24 @@
+[
+  {
+    "full_name": "Sia",
+    "email": "Sia@gmail.com",
+    "password": "Sia@123",
+    "confirm_password": "Sia@123",
+    "gender": "female",
+    "dob": "2024-12-02",
+    "address": "xyz",
+    "country": "India",
+    "terms": "on"
+  },
+  {
+    "full_name": "Zia Ali",
+    "email": "Zia@gmail.com",
+    "password": "Zia@123",
+    "confirm_password": "Zia@123",
+    "gender": "male",
+    "dob": "2024-12-10",
+    "address": "abc",
+    "country": "Australia",
+    "terms": "on"
+  }
+]
